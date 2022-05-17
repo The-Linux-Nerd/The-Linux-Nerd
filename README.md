@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... Computer Science in college*
 - 💞️ I’m looking to collaborate on ... Anything i can.
 - 📫 How to reach me ... arch_nerd@pm.me
+- ⚠️  My repos are full of experiments. Use at your own discretion. 
 
 
 ###### * _Name witheld for privacy reasons_
