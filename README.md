@@ -1,4 +1,4 @@
-- 👋 Hi, I have moved to my own gitea intance! You can find me here [@The-Linux-Nerd](https://git.privacyquest.net/The-Linux-Nerd/)
+- 👋 Hi, I have moved to my own gitea intance! You can find me here [@The_Linux_Nerd](https://git.privacyquest.net/The_Linux_Nerd/)
 - 👀 I’m interested in ... Anything Linux / Open source / discovering employment opportunities
 - 🌱 I’m currently learning ... Computer Science in college*
 - 💞️ I’m looking to collaborate on ... Anything i can.
